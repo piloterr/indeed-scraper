@@ -147,7 +147,7 @@ Example response from the API reference, abridged — real values depend on the 
   "logo_url": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/96x96/298681ef47f10ca72cd94a73fdf47032",
   "company_url": "https://fr.indeed.com/cmp/Proman-1",
   "description": "Fondé à Manosque en 1990, PROMAN est aujourd’hui le 4ème acteur européen sur le marché du travail temporaire, du recrutement CDD/CDI et l…",
-  "headquarter": "PROMAN – Siège social,\r\nZI Saint-Maurice\r\n04100 Manosque\r\n",
+  "headquarter": "PROMAN: Siège social,\r\nZI Saint-Maurice\r\n04100 Manosque\r\n",
   "staff_range": "5001-10000",
   "company_name": "PROMAN",
   "dynamic_sections": {
@@ -815,7 +815,7 @@ Example response from the API reference, abridged — real values depend on the 
     },
     {
       "url": "https://fr.indeed.com/viewjob?jk=2c4fb3fb8fcafad3",
-      "title": "Business Développeur BtoB – Transition Énergétique (H/F/X)",
+      "title": "Business Développeur BtoB: Transition Énergétique (H/F/X)",
       "salary": {
         "text": "36 000 € par an"
       },
@@ -927,7 +927,7 @@ Any language that can make an HTTP request. This README shows Python and TypeScr
 - [Europages Scraper API](https://github.com/piloterr/europages-scraper)
 - [Fiverr Scraper API](https://github.com/piloterr/fiverr-scraper)
 - [G2 Scraper API](https://github.com/piloterr/g2-scraper)
-- [github-scraper](https://github.com/piloterr/github-scraper)
+- [GitHub Scraper API](https://github.com/piloterr/github-scraper)
 - [All Piloterr scrapers on GitHub](https://github.com/piloterr)
 
 ## Support
