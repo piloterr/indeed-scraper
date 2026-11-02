@@ -79,7 +79,7 @@ response = requests.get(
     params={
         "query": "Proman-1",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -204,7 +204,7 @@ response = requests.get(
     params={
         "query": "airbus",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -347,7 +347,7 @@ response = requests.get(
     params={
         "query": "585181841cb618e0",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -469,7 +469,7 @@ response = requests.get(
     params={
         "query": "ing\u00e9nieur-etudes-et-d\u00e9veloppement",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -736,7 +736,7 @@ response = requests.get(
     params={
         "query": "developpeur python",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
